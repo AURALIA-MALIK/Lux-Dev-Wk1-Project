@@ -1,8 +1,10 @@
 # Lux-Dev-Wk1-Project
 Overview
-Business Problem: Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product? The dataset used is from Kaggle:https://www.kaggle.com/code/sanjanchaudhari/analyzing-user-behavior-on-instagram/notebook
+Business Problem: Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product? The dataset used is from <a href="https://www.kaggle.com/datasets/sanjanchaudhari/user-behavior-on-instagram" target="_blank" rel="noopener">Kaggle</a>
+
 ![image](https://github.com/AURALIA-MALIK/Lux-Dev-Wk1-Project/assets/22881701/cc4309e5-2f65-40a4-85f5-1d329cb69565)
-EDA
+
+## EDA
 ![image](https://github.com/AURALIA-MALIK/Lux-Dev-Wk1-Project/assets/22881701/9ce63107-d465-448a-87df-b51e5013e151)
 
 ## Conclusion
